@@ -1,1 +1,13 @@
+# Ignore IDE settings
 .idea/
+.vscode/
+
+# Ignore Virtual Environment
+.venv/
+venv/
+
+# Ignore Cache
+__pycache__/
+
+# Ignore Data Files (Delete this line if you WANT to keep your CSVs on GitHub)
+*.csv
